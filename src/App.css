@@ -79,6 +79,26 @@ img {
 .comments {
     color: var(--gris);
 }
+.Profile {
+    padding: 16px;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+.Profile figure {
+      display: flex;
+      justify-content: center;
+}      
+.Profile figure img {
+        border-radius: 50%;
+}
+.Profile h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+.Profile p {
+    font-size: 16px;
+} 
 /* @media (min-width: 480px) {
     .cards {
         display: grid;

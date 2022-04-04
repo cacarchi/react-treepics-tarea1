@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "img": "./img/img1.jpg",
+      "time": "3-11-2022 08:00:00 GMT-0300",
+      "user": "@cesarcarchi",
+      "likes": 1000,
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus aperiam itaque ratione ad impedit deleniti earum ea, ab quis. Facere quod aliquam maiores asperiores rerum.",
+      "comments": 14
+    },
+    {
+      "id": 2,
+      "img": "./img/img2.jpg",
+      "time": "2-29-2022 08:00:00 GMT-0300",
+      "user": "@petterjhonson",
+      "likes": 4000,
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus aperiam itaque ratione ad impedit deleniti earum ea, ab quis. Facere quod aliquam maiores asperiores rerum.",
+      "comments": 13
+    },
+    {
+      "id": 3,
+      "img": "./img/img3.jpg",
+      "time": "1-29-2022 08:00:00 GMT-0300",
+      "user": "@markruffalo",
+      "likes": 3000,
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus aperiam itaque ratione ad impedit deleniti earum ea, ab quis. Facere quod aliquam maiores asperiores rerum.",
+      "comments": 12
+    },
+    {
+      "id": 4,
+      "img": "./img/img4.jpg",
+      "time": "12-29-2021 08:00:00 GMT-0300",
+      "user": "@lionelmessi",
+      "likes": 9000,
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus aperiam itaque ratione ad impedit deleniti earum ea, ab quis. Facere quod aliquam maiores asperiores rerum.",
+      "comments": 11
+    },
+    {
+      "id": 5,
+      "img": "./img/img5.jpg",
+      "time": "10-15-2021 08:00:00 GMT-0300",
+      "user": "@michaeljordan",
+      "likes": 7000,
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus aperiam itaque ratione ad impedit deleniti earum ea, ab quis. Facere quod aliquam maiores asperiores rerum.",
+      "comments": 10
+    }
+  ]
